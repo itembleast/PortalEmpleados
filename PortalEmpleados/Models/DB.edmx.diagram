@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b195eac41a5f481c83e2b637aa24e5ed" Name="Diagram1">
+        <EntityTypeShape EntityType="Portal_EmpleadosModel.listaChequeo_diaria_items" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Portal_EmpleadosModel.listaChequeo_diaria_respuestas" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Portal_EmpleadosModel.listaChequeo_mensual_items" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="Portal_EmpleadosModel.listaChequeo_mensual_respuestas" Width="1.5" PointX="0.75" PointY="4.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
